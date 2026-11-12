@@ -1,5 +1,8 @@
 # React-Lab-Exercise-1-Understanding-React-File-Structure
 
+## Name : Moulishwar G
+## Register Number : 2305001020
+
 # Aim 
 To create a basic React application using Vite and understand the purpose of important files and 
 folders in the React project structure. 
