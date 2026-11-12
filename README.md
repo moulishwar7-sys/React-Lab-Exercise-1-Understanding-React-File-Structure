@@ -109,3 +109,7 @@ export default Faculty;
 # Output
 
 <img width="797" height="357" alt="image" src="https://github.com/user-attachments/assets/283de7b6-d07b-41bc-b881-b72c8d2d36f7" />
+
+# Result:
+ 
+Thus the program to create a basic React application using Vite has successfully stimulated. 
